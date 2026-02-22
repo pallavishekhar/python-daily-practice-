@@ -6,3 +6,4 @@ Day 1:
 - Basic input/output
 - Variables
 - Practice problems
+Day 2 contribution Sun Feb 22 17:49:03 IST 2026
