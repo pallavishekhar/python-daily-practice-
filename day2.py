@@ -1,4 +1,7 @@
-a=6
-b=6
-n=a*b
-print(n)
+print('Hello','What is your name?')
+name=str(input())
+print('What is your age')
+age=int(input())
+print('Where do you live in?')
+live=str(input())
+print('Hello','My name is',name,'My age is',age,'I live in',live,'Happy to know!','Welc to India')
